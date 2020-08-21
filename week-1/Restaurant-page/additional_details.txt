@@ -1,0 +1,3 @@
+At this time, clip-path still needs to be prefixed with -webkit- for it to work in Safari.
+
+mb- margin-bottom
